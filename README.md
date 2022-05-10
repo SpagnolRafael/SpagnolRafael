@@ -6,8 +6,6 @@
 - Não prometo todo conhecimento do mundo, mas a dedicação para obte-los sim!
 - Enquanto estudava o básico de flutter, desenvolvi a seguinte doc para um rascunho que me ajudou muito e vai ajudar os iniciandos na área.
 - Link: https://docs.google.com/document/d/1MyICckuVAOe1zIPJEVRtKlYhxETzH4XpDbdcrm6jJWY/edit?usp=sharing
-- LinkedIn: 
-- Facebook: 
 - Flutter veio para mudar e eu quero fazer parte desta mudança.
 <div align="center">
   <a href="https://github.com/SpagnolRafael">
