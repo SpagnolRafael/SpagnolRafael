@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @SpagnolRafael
+- 👋 Hi, I’m Rafael Spagnol
 - Sou engenheiro civil ,pós graduado. Quando iniciei meus estudos na carreira Tech, tive aprendizado em Java, aprendi um pouco de iOS swift e gostei e me dediquei a estudar Flutter.
 - Atualmente alem de estudar Flutter, estudo patterns e clean arch, sempre busco melhorar a cada código que executo.
 - Desafios me motivam e estou sempre pronto para encara-los.
