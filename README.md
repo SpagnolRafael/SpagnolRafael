@@ -1,12 +1,8 @@
 
 - 👋 Hi, I’m Rafael Spagnol
-- Sou engenheiro civil ,pós graduado. Quando iniciei meus estudos na carreira Tech, tive aprendizado em Java, aprendi um pouco de iOS swift e gostei e me dediquei a estudar Flutter.
-- Atualmente alem de estudar Flutter, estudo patterns e clean arch, sempre busco melhorar a cada código que executo.
+- Flutter Developer Junior, trabalho atualmente na Nonaka Technology, onde desenvolvemos features para um aplicativo rede social e uma plataforma de treinamento empresarial(web) ambos feitos em flutter. De forma paralela, participo da master class dirigida por Jacob Moura e estou desenvolvendo um app de gestao de locacao.
+- Duvidas entre em contato comigo, basta clicar no botão WhatsApp abaixo.
 - Desafios me motivam e estou sempre pronto para encara-los.
-- Não prometo todo conhecimento do mundo, mas a dedicação para obte-los sim!
-- Enquanto estudava o básico de flutter, desenvolvi a seguinte doc para um rascunho que me ajudou muito e vai ajudar os iniciandos na área.
-- Link: https://docs.google.com/document/d/1MyICckuVAOe1zIPJEVRtKlYhxETzH4XpDbdcrm6jJWY/edit?usp=sharing
-- Flutter veio para mudar e eu quero fazer parte desta mudança.
 <div align="center">
   <a href="https://github.com/SpagnolRafael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpagnolRafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color= #FFFFFF"/>
